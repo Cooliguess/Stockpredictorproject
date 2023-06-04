@@ -1,3 +1,4 @@
 # Stockpredictorproject
 Stock Predictor w Decision Trees and XGBoost
-Idk what to write here I'll come back to this
+
+Just tryna use concept I learned and apply them to a project that I find cool
