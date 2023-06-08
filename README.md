@@ -2,7 +2,7 @@
 
 Installation steps:
   1. To clone the repository:
-    git clone https://github.com/Cooliguess/stock-market-analysis.git
+    git clone https://github.com/Cooliguess/Stockpredictorproject.git
   2. Install the required dependencies:
     pip install pandas scikit-learn xgboost yfinance ta
   3. Open the main.py file.
