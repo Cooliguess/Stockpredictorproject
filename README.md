@@ -1,5 +1,8 @@
 # Stockpredictorproject
 
+The first file is simply only with XGBoost and Commented out Decision Trees using the yfinance library for the data.
+The second one uses an API key from Alpha Vantage because businesses use them.
+
 Installation steps:
   1. To clone the repository:
     git clone https://github.com/Cooliguess/Stockpredictorproject.git
